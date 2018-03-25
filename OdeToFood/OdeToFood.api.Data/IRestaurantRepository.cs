@@ -10,7 +10,7 @@ namespace OdeToFood.api.Data
     public interface IRestaurantRepository
     {
         IEnumerable<Restaurant> GetAll();
-        void Add(Restaurant restaurant);
-        void Remove(Restaurant restaurant);
+        Restaurant Add(Restaurant restaurant);
+        Restaurant Remove(Restaurant restaurant);
     }
 }

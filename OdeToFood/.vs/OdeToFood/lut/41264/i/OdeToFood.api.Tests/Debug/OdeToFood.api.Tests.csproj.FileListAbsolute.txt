@@ -1,0 +1,11 @@
+C:\Users\Teppers\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\.vs\OdeToFood\lut\0\b\OdeToFood.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\Teppers\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\.vs\OdeToFood\lut\0\b\OdeToFood.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Teppers\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\.vs\OdeToFood\lut\0\b\OdeToFood.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Teppers\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\.vs\OdeToFood\lut\0\b\OdeToFood.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Teppers\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\.vs\OdeToFood\lut\0\b\OdeToFood.Tests\bin\Debug\OdeToFood.Tests.dll.config
+C:\Users\Teppers\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\.vs\OdeToFood\lut\0\b\OdeToFood.Tests\bin\Debug\OdeToFood.Tests.dll
+C:\Users\Teppers\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\.vs\OdeToFood\lut\0\b\OdeToFood.Tests\bin\Debug\OdeToFood.Tests.pdb
+C:\Users\Teppers\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\.vs\OdeToFood\lut\0\i\OdeToFood.api.Tests\Debug\OdeToFood.api.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Teppers\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\.vs\OdeToFood\lut\0\i\OdeToFood.api.Tests\Debug\OdeToFood.api.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Teppers\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\.vs\OdeToFood\lut\0\i\OdeToFood.api.Tests\Debug\OdeToFood.Tests.dll
+C:\Users\Teppers\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\.vs\OdeToFood\lut\0\i\OdeToFood.api.Tests\Debug\OdeToFood.Tests.pdb

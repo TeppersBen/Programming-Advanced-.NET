@@ -47,9 +47,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="DomainClasses\Restaurant.cs" />
     <Compile Include="IRestaurantRepository.cs" />
+    <Compile Include="OdeToFoodDB.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RestaurantDBRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

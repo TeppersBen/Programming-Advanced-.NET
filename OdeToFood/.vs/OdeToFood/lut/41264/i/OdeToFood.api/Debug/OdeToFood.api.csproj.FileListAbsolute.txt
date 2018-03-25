@@ -1,0 +1,8 @@
+C:\Users\Teppers\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\.vs\OdeToFood\lut\0\b\OdeToFood\bin\ApplicationInsights.config
+C:\Users\Teppers\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\.vs\OdeToFood\lut\0\b\OdeToFood\bin\OdeToFood.dll.config
+C:\Users\Teppers\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\.vs\OdeToFood\lut\0\b\OdeToFood\bin\OdeToFood.dll
+C:\Users\Teppers\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\.vs\OdeToFood\lut\0\b\OdeToFood\bin\OdeToFood.pdb
+C:\Users\Teppers\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\.vs\OdeToFood\lut\0\i\OdeToFood.api\Debug\OdeToFood.api.csprojResolveAssemblyReference.cache
+C:\Users\Teppers\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\.vs\OdeToFood\lut\0\i\OdeToFood.api\Debug\OdeToFood.api.csproj.CoreCompileInputs.cache
+C:\Users\Teppers\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\.vs\OdeToFood\lut\0\i\OdeToFood.api\Debug\OdeToFood.dll
+C:\Users\Teppers\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\.vs\OdeToFood\lut\0\i\OdeToFood.api\Debug\OdeToFood.pdb

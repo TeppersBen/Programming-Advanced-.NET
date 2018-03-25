@@ -1,0 +1,6 @@
+C:\Users\Teppers\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\.vs\OdeToFood\lut\0\b\OdeToFood.api.Data\bin\Debug\OdeToFood.api.Data.dll.config
+C:\Users\Teppers\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\.vs\OdeToFood\lut\0\b\OdeToFood.api.Data\bin\Debug\OdeToFood.api.Data.dll
+C:\Users\Teppers\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\.vs\OdeToFood\lut\0\b\OdeToFood.api.Data\bin\Debug\OdeToFood.api.Data.pdb
+C:\Users\Teppers\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\.vs\OdeToFood\lut\0\i\OdeToFood.Data\Debug\OdeToFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\Teppers\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\.vs\OdeToFood\lut\0\i\OdeToFood.Data\Debug\OdeToFood.api.Data.dll
+C:\Users\Teppers\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\.vs\OdeToFood\lut\0\i\OdeToFood.Data\Debug\OdeToFood.api.Data.pdb
