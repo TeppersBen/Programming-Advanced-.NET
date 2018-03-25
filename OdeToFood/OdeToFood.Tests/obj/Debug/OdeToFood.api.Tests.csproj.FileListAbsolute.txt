@@ -1,0 +1,2 @@
+C:\Users\11600220\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\OdeToFood.Tests\obj\Debug\OdeToFood.api.Tests.csprojResolveAssemblyReference.cache
+C:\Users\11600220\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\OdeToFood.Tests\obj\Debug\OdeToFood.api.Tests.csproj.CoreCompileInputs.cache

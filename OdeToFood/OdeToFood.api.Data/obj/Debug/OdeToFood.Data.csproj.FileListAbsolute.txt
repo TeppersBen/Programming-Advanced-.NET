@@ -1,0 +1,11 @@
+C:\Users\11600220\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\OdeToFood.api.Data\bin\Debug\OdeToFood.api.Data.dll.config
+C:\Users\11600220\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\OdeToFood.api.Data\bin\Debug\OdeToFood.api.Data.dll
+C:\Users\11600220\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\OdeToFood.api.Data\bin\Debug\OdeToFood.api.Data.pdb
+C:\Users\11600220\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\OdeToFood.api.Data\bin\Debug\EntityFramework.dll
+C:\Users\11600220\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\OdeToFood.api.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\11600220\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\OdeToFood.api.Data\bin\Debug\EntityFramework.xml
+C:\Users\11600220\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\OdeToFood.api.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\11600220\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\OdeToFood.api.Data\obj\Debug\OdeToFood.Data.csprojResolveAssemblyReference.cache
+C:\Users\11600220\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\OdeToFood.api.Data\obj\Debug\OdeToFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\11600220\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\OdeToFood.api.Data\obj\Debug\OdeToFood.api.Data.dll
+C:\Users\11600220\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\OdeToFood.api.Data\obj\Debug\OdeToFood.api.Data.pdb

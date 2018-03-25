@@ -7,9 +7,14 @@ using OdeToFood.api.Data.DomainClasses;
 
 namespace OdeToFood.api.Data
 {
-    class RestaurantDBRepository : IRestaurantRepository
+    public class RestaurantDBRepository : IRestaurantRepository
     {
         private readonly OdeToFoodDB _context;
+
+        public RestaurantDBRepository(OdeToFoodDB context)
+        {
+            _context = context;
+        }
 
         public Restaurant Add(Restaurant restaurant)
         {

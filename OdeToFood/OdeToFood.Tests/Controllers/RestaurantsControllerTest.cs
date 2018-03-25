@@ -18,8 +18,8 @@ namespace OdeToFood.Tests.Controllers
         [SetUp]
         public void Setup()
         {
-            _controller = new RestaurantsController();
             _repo = new Moq.Mock<IRestaurantRepository>();
+            _controller = new RestaurantsController(_repo.Object);
         }
 
         [Test]
@@ -52,7 +52,9 @@ namespace OdeToFood.Tests.Controllers
         [Test]
         public void Post_ValidRestaurantIsSavedInRepository()
         {
-            throw new NotImplementedException();
+            var restaurant = new Restaurant();
+            _controller.Post(restaurant);
+            _repo.Verify(repo => repo.Add(restaurant));
         }
 
         [Test]

@@ -1,4 +1,6 @@
-﻿using System;
+﻿using OdeToFood.api.Data;
+using OdeToFood.api.Data.DomainClasses;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
@@ -9,31 +11,42 @@ namespace OdeToFood.Controllers
 {
     public class RestaurantsController : ApiController
     {
-        // GET api/<controller>
-        public IEnumerable<string> Get()
+        private readonly IRestaurantRepository _restaurantRepository;
+        
+        public RestaurantsController(IRestaurantRepository restaurantRepository)
         {
-            return new string[] { "value1", "value2" };
+            _restaurantRepository = restaurantRepository;
         }
 
-        // GET api/<controller>/5
-        public string Get(int id)
+        // GET: api/Restaurants
+        public IEnumerable<Restaurant> Get()
         {
-            return "value";
+            return _restaurantRepository.GetAll();
         }
 
-        // POST api/<controller>
-        public void Post([FromBody]string value)
+        // POST: api/restaurants
+        public IHttpActionResult Post([FromBody] Restaurant restaurant)
         {
+            var createdRestaurant = _restaurantRepository.Add(restaurant);
+            var restaurantUrl = Url.Link("DefaultApi", new { controller = "Restaurants", id = createdRestaurant.Id });
+            return Created(restaurantUrl, createdRestaurant);
         }
 
-        // PUT api/<controller>/5
-        public void Put(int id, [FromBody]string value)
+        //api/restaurants/5
+        public IHttpActionResult GetById(int id)
         {
-        }
-
-        // DELETE api/<controller>/5
-        public void Delete(int id)
-        {
+            if (id == 1)
+            {
+                var restaurant = new Restaurant
+                {
+                    Id = 1,
+                    Name = "Unknown",
+                    City = "Unknown",
+                    Country = "Unknown"
+                };
+                return Ok(restaurant);
+            }
+            return NotFound();
         }
     }
 }
