@@ -1,0 +1,10 @@
+C:\Users\11600220\Desktop\School\School.Business\bin\Debug\School.Business.dll
+C:\Users\11600220\Desktop\School\School.Business\bin\Debug\School.Business.pdb
+C:\Users\11600220\Desktop\School\School.Business\bin\Debug\Newtonsoft.Json.dll
+C:\Users\11600220\Desktop\School\School.Business\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\11600220\Desktop\School\School.Business\bin\Debug\Newtonsoft.Json.xml
+C:\Users\11600220\Desktop\School\School.Business\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\11600220\Desktop\School\School.Business\obj\Debug\School.Business.csprojResolveAssemblyReference.cache
+C:\Users\11600220\Desktop\School\School.Business\obj\Debug\School.Business.csproj.CoreCompileInputs.cache
+C:\Users\11600220\Desktop\School\School.Business\obj\Debug\School.Business.dll
+C:\Users\11600220\Desktop\School\School.Business\obj\Debug\School.Business.pdb

@@ -1,0 +1,22 @@
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.Data\bin\Debug\School.Data.dll.config
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.Data\bin\Debug\School.Data.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.Data\bin\Debug\School.Data.pdb
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.Data\bin\Debug\EntityFramework.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.Data\bin\Debug\EntityFramework.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.Data\obj\Debug\School.Data.csproj.CoreCompileInputs.cache
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.Data\obj\Debug\School.Data.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.Data\obj\Debug\School.Data.pdb
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.Data\obj\Debug\School.Data.csprojResolveAssemblyReference.cache
+C:\Users\11600220\Desktop\School\School.Data\bin\Debug\School.Data.dll.config
+C:\Users\11600220\Desktop\School\School.Data\bin\Debug\School.Data.dll
+C:\Users\11600220\Desktop\School\School.Data\bin\Debug\School.Data.pdb
+C:\Users\11600220\Desktop\School\School.Data\bin\Debug\EntityFramework.dll
+C:\Users\11600220\Desktop\School\School.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\11600220\Desktop\School\School.Data\bin\Debug\EntityFramework.xml
+C:\Users\11600220\Desktop\School\School.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\11600220\Desktop\School\School.Data\obj\Debug\School.Data.csprojResolveAssemblyReference.cache
+C:\Users\11600220\Desktop\School\School.Data\obj\Debug\School.Data.csproj.CoreCompileInputs.cache
+C:\Users\11600220\Desktop\School\School.Data\obj\Debug\School.Data.dll
+C:\Users\11600220\Desktop\School\School.Data\obj\Debug\School.Data.pdb

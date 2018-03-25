@@ -1,0 +1,120 @@
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\ApplicationInsights.config
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\School.api.dll.config
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\School.api.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\School.api.pdb
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\Antlr3.Runtime.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\Microsoft.AI.Web.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\Newtonsoft.Json.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\School.Data.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\SimpleInjector.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\SimpleInjector.Integration.WebApi.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\System.Net.Http.Formatting.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\System.Web.Helpers.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\System.Web.Http.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\System.Web.Http.WebHost.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\System.Web.Mvc.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\System.Web.Optimization.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\System.Web.Razor.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\System.Web.WebPages.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\WebGrease.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\School.Data.pdb
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\School.Data.dll.config
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\SimpleInjector.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\SimpleInjector.Integration.WebApi.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\Newtonsoft.Json.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\System.Net.Http.Formatting.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\System.Web.Helpers.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\System.Web.Http.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\System.Web.Http.WebHost.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\System.Web.Mvc.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\System.Web.Optimization.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\System.Web.Razor.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\System.Web.WebPages.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\Antlr3.Runtime.pdb
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\Microsoft.AI.Web.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\obj\Debug\School.api.csprojResolveAssemblyReference.cache
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\obj\Debug\School.api.csproj.CoreCompileInputs.cache
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\obj\Debug\School.api.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\obj\Debug\School.api.pdb
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\EntityFramework.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\EntityFramework.SqlServer.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\EntityFramework.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api\bin\EntityFramework.SqlServer.xml
+C:\Users\11600220\Desktop\School\School.api\bin\ApplicationInsights.config
+C:\Users\11600220\Desktop\School\School.api\bin\School.api.dll.config
+C:\Users\11600220\Desktop\School\School.api\bin\School.api.dll
+C:\Users\11600220\Desktop\School\School.api\bin\School.api.pdb
+C:\Users\11600220\Desktop\School\School.api\bin\Antlr3.Runtime.dll
+C:\Users\11600220\Desktop\School\School.api\bin\EntityFramework.dll
+C:\Users\11600220\Desktop\School\School.api\bin\EntityFramework.SqlServer.dll
+C:\Users\11600220\Desktop\School\School.api\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\11600220\Desktop\School\School.api\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\11600220\Desktop\School\School.api\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\11600220\Desktop\School\School.api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\11600220\Desktop\School\School.api\bin\Microsoft.AI.Web.dll
+C:\Users\11600220\Desktop\School\School.api\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\11600220\Desktop\School\School.api\bin\Microsoft.ApplicationInsights.dll
+C:\Users\11600220\Desktop\School\School.api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\11600220\Desktop\School\School.api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\11600220\Desktop\School\School.api\bin\Newtonsoft.Json.dll
+C:\Users\11600220\Desktop\School\School.api\bin\School.Data.dll
+C:\Users\11600220\Desktop\School\School.api\bin\SimpleInjector.dll
+C:\Users\11600220\Desktop\School\School.api\bin\SimpleInjector.Integration.WebApi.dll
+C:\Users\11600220\Desktop\School\School.api\bin\System.Net.Http.Formatting.dll
+C:\Users\11600220\Desktop\School\School.api\bin\System.Web.Helpers.dll
+C:\Users\11600220\Desktop\School\School.api\bin\System.Web.Http.dll
+C:\Users\11600220\Desktop\School\School.api\bin\System.Web.Http.WebHost.dll
+C:\Users\11600220\Desktop\School\School.api\bin\System.Web.Mvc.dll
+C:\Users\11600220\Desktop\School\School.api\bin\System.Web.Optimization.dll
+C:\Users\11600220\Desktop\School\School.api\bin\System.Web.Razor.dll
+C:\Users\11600220\Desktop\School\School.api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\11600220\Desktop\School\School.api\bin\System.Web.WebPages.dll
+C:\Users\11600220\Desktop\School\School.api\bin\System.Web.WebPages.Razor.dll
+C:\Users\11600220\Desktop\School\School.api\bin\WebGrease.dll
+C:\Users\11600220\Desktop\School\School.api\bin\School.Data.pdb
+C:\Users\11600220\Desktop\School\School.api\bin\School.Data.dll.config
+C:\Users\11600220\Desktop\School\School.api\bin\EntityFramework.xml
+C:\Users\11600220\Desktop\School\School.api\bin\EntityFramework.SqlServer.xml
+C:\Users\11600220\Desktop\School\School.api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\11600220\Desktop\School\School.api\bin\SimpleInjector.xml
+C:\Users\11600220\Desktop\School\School.api\bin\SimpleInjector.Integration.WebApi.xml
+C:\Users\11600220\Desktop\School\School.api\bin\Newtonsoft.Json.xml
+C:\Users\11600220\Desktop\School\School.api\bin\System.Net.Http.Formatting.xml
+C:\Users\11600220\Desktop\School\School.api\bin\System.Web.Helpers.xml
+C:\Users\11600220\Desktop\School\School.api\bin\System.Web.Http.xml
+C:\Users\11600220\Desktop\School\School.api\bin\System.Web.Http.WebHost.xml
+C:\Users\11600220\Desktop\School\School.api\bin\System.Web.Mvc.xml
+C:\Users\11600220\Desktop\School\School.api\bin\System.Web.Optimization.xml
+C:\Users\11600220\Desktop\School\School.api\bin\System.Web.Razor.xml
+C:\Users\11600220\Desktop\School\School.api\bin\System.Web.WebPages.xml
+C:\Users\11600220\Desktop\School\School.api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\11600220\Desktop\School\School.api\bin\System.Web.WebPages.Razor.xml
+C:\Users\11600220\Desktop\School\School.api\bin\Antlr3.Runtime.pdb
+C:\Users\11600220\Desktop\School\School.api\bin\Microsoft.ApplicationInsights.xml
+C:\Users\11600220\Desktop\School\School.api\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\11600220\Desktop\School\School.api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\11600220\Desktop\School\School.api\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\11600220\Desktop\School\School.api\bin\Microsoft.AI.Web.xml
+C:\Users\11600220\Desktop\School\School.api\obj\Debug\School.api.csprojResolveAssemblyReference.cache
+C:\Users\11600220\Desktop\School\School.api\obj\Debug\School.api.csproj.CoreCompileInputs.cache
+C:\Users\11600220\Desktop\School\School.api\obj\Debug\School.api.dll
+C:\Users\11600220\Desktop\School\School.api\obj\Debug\School.api.pdb
+C:\Users\11600220\Desktop\School\School.api\bin\School.Business.dll
+C:\Users\11600220\Desktop\School\School.api\bin\School.Business.pdb

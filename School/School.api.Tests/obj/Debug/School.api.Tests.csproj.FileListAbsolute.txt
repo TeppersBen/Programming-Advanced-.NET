@@ -1,0 +1,124 @@
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\School.api.Tests.dll.config
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\School.api.Tests.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\School.api.Tests.pdb
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\Castle.Core.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\Moq.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\School.api.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\School.Data.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\System.ValueTuple.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\SimpleInjector.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\SimpleInjector.Integration.WebApi.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\School.api.pdb
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\School.api.dll.config
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\School.Data.pdb
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\School.Data.dll.config
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\Castle.Core.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\Moq.pdb
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\Moq.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\System.ValueTuple.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\SimpleInjector.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\SimpleInjector.Integration.WebApi.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\obj\Debug\School.api.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\obj\Debug\School.api.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\obj\Debug\School.api.Tests.dll
+C:\Users\Dary\Programming Advanced .Net Workspace\WebAPI\School\School.api.Tests\obj\Debug\School.api.Tests.pdb
+C:\Users\11600220\Desktop\School\School.api.Tests\obj\Debug\School.api.Tests.csprojResolveAssemblyReference.cache
+C:\Users\11600220\Desktop\School\School.api.Tests\obj\Debug\School.api.Tests.csproj.CoreCompileInputs.cache
+C:\Users\11600220\Desktop\School\School.api.Tests\obj\Debug\School.api.Tests.dll
+C:\Users\11600220\Desktop\School\School.api.Tests\obj\Debug\School.api.Tests.pdb
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\School.api.Tests.dll.config
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\School.api.Tests.dll
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\School.api.Tests.pdb
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\Castle.Core.dll
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\Moq.dll
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\nunit.framework.dll
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\School.api.dll
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\School.Data.dll
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\System.ValueTuple.dll
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\School.Business.dll
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\SimpleInjector.dll
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\SimpleInjector.Integration.WebApi.dll
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\EntityFramework.dll
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\School.api.pdb
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\School.api.dll.config
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\School.Data.pdb
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\School.Data.dll.config
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\Castle.Core.xml
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\Moq.pdb
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\Moq.xml
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\nunit.framework.xml
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\System.ValueTuple.xml
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\School.Business.pdb
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\SimpleInjector.xml
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\SimpleInjector.Integration.WebApi.xml
+C:\Users\11600220\Desktop\School\School.api.Tests\bin\Debug\EntityFramework.xml
