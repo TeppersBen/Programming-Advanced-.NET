@@ -47,6 +47,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DomainClasses\Review.cs" />
+    <Compile Include="IReviewRepository.cs" />
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="DomainClasses\Restaurant.cs" />
     <Compile Include="IRestaurantRepository.cs" />
