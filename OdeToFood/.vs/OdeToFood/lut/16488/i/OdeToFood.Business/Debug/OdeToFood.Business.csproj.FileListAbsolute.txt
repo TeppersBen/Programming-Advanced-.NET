@@ -1,0 +1,9 @@
+C:\Users\11600220\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\.vs\OdeToFood\lut\0\b\OdeToFood.Business\bin\Debug\OdeToFood.Business.exe.config
+C:\Users\11600220\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\.vs\OdeToFood\lut\0\b\OdeToFood.Business\bin\Debug\OdeToFood.Business.exe
+C:\Users\11600220\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\.vs\OdeToFood\lut\0\b\OdeToFood.Business\bin\Debug\OdeToFood.Business.pdb
+C:\Users\11600220\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\.vs\OdeToFood\lut\0\i\OdeToFood.Business\Debug\OdeToFood.Business.csprojResolveAssemblyReference.cache
+C:\Users\11600220\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\.vs\OdeToFood\lut\0\i\OdeToFood.Business\Debug\OdeToFood.Business.Properties.Resources.resources
+C:\Users\11600220\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\.vs\OdeToFood\lut\0\i\OdeToFood.Business\Debug\OdeToFood.Business.csproj.GenerateResource.Cache
+C:\Users\11600220\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\.vs\OdeToFood\lut\0\i\OdeToFood.Business\Debug\OdeToFood.Business.csproj.CoreCompileInputs.cache
+C:\Users\11600220\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\.vs\OdeToFood\lut\0\i\OdeToFood.Business\Debug\OdeToFood.Business.exe
+C:\Users\11600220\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\.vs\OdeToFood\lut\0\i\OdeToFood.Business\Debug\OdeToFood.Business.pdb

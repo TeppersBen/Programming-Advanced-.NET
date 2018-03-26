@@ -12,5 +12,8 @@ namespace OdeToFood.api.Data
         IEnumerable<Restaurant> GetAll();
         Restaurant Add(Restaurant restaurant);
         Restaurant Remove(Restaurant restaurant);
+        Restaurant GetById(int id);
+        void Update(Restaurant restaurant);
+        void Delete(int id);
     }
 }

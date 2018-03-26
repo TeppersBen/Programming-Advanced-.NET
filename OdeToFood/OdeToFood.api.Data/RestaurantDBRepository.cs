@@ -16,6 +16,21 @@ namespace OdeToFood.api.Data
             _context = context;
         }
 
+        public Restaurant GetById(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Update(Restaurant restaurant)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Delete(int id)
+        {
+            throw new NotImplementedException();
+        }
+
         public Restaurant Add(Restaurant restaurant)
         {
             _context.Restaurants.Add(restaurant);

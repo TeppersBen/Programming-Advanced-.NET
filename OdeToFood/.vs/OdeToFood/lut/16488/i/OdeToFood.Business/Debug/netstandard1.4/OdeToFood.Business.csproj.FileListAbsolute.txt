@@ -1,0 +1,3 @@
+C:\Users\11600220\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\.vs\OdeToFood\lut\0\b\OdeToFood.Business\Debug\netstandard1.4\OdeToFood.Business.deps.json
+C:\Users\11600220\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\.vs\OdeToFood\lut\0\i\OdeToFood.Business\Debug\netstandard1.4\OdeToFood.Business.csproj.CoreCompileInputs.cache
+C:\Users\11600220\Documents\GitHub\Programming-Advanced-.NET\OdeToFood\.vs\OdeToFood\lut\0\i\OdeToFood.Business\Debug\netstandard1.4\OdeToFood.Business.AssemblyInfo.cs
